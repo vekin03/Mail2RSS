@@ -1,4 +1,4 @@
-Mail2RSS (0.2 alpha)
+Mail2RSS (0.1 alpha)
 ====================
 
 Display your latest mails in a RSS feed
